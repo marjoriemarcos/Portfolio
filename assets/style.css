@@ -73,15 +73,6 @@ div > a:hover {
   justify-content: center;
 }
 
-span {
-  width: 25vw;
-}
-
-span > img {
-  width: 75%;
-  height: 100%;
-}
-
 .project {
   color: inherit;
   text-decoration: none;
